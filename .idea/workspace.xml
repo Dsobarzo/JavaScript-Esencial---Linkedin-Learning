@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ba1d3b-7318-4862-9c2c-e5836fb93056" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1 - Conociendo JavaScript/01 - Tu primer JavaScript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1 - Conociendo JavaScript/01 - Tu primer JavaScript/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,7 +36,9 @@
       <option name="presentableId" value="Default" />
       <updated>1607957870578</updated>
       <workItem from="1607957872894" duration="699000" />
-      <workItem from="1607958973577" duration="26000" />
+      <workItem from="1607958973577" duration="701000" />
+      <workItem from="1607959905231" duration="114000" />
+      <workItem from="1607960036988" duration="217000" />
     </task>
     <servers />
   </component>
