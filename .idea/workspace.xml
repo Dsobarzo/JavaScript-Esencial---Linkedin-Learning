@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19ba1d3b-7318-4862-9c2c-e5836fb93056" name="Default Changelist" comment="" />
+    <list default="true" id="19ba1d3b-7318-4862-9c2c-e5836fb93056" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/1 - Conociendo JavaScript/01 - Tu primer JavaScript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1 - Conociendo JavaScript/01 - Tu primer JavaScript/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaScript-Esencial---Linkedin-Learning" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1leW7FwAggyCepI7biDvIdfgZ2f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,6 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607957870578</updated>
       <workItem from="1607957872894" duration="699000" />
+      <workItem from="1607958973577" duration="26000" />
     </task>
     <servers />
   </component>
@@ -48,5 +51,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
