@@ -27,5 +27,8 @@ var productos = 5;
 
 for (let contador = 0; contador < productos; contador++) {
     console.log("Producto #"+ contador);
+    //DEBUGGER ES UNA OPCION DEL NAVEGADOR
+    //PERMITE EN EL NAVEGADOR Y PERMIETE SABER QUE PASA EN CADA PASO DEL CICLO
     debugger;
+
 }
