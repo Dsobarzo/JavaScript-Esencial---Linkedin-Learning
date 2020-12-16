@@ -9,6 +9,7 @@ var nombre = "Playa"; // Cadena de texto
 
 var activo = true // Boleano
 
+//OBJETO PERSONA
 var persona = {
 	edad: 34, // Número
 	deporte: 'Correr' // Cadena de texto
