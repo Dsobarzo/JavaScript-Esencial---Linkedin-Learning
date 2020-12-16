@@ -10,6 +10,7 @@ var igual = datoA;
 console.log("El resultado de la asignación simple es: "+ igual);
 
 // SUMAR Y ASIGNAR
+//el mas igual valor = valor + masigual
 var masIgual = 10;
 
 masIgual += datoA;
