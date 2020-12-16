@@ -26,6 +26,7 @@ switch (edad) {
 }
 
 
+
 console.log("El resultado de la evaluación con números es: "+ resultado)
 
 // Evaluación con cadena de texto
