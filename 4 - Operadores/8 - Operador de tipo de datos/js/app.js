@@ -14,6 +14,7 @@ var persona = {
 	deporte: 'Correr' // Cadena de texto
 } // Objeto
 
+//PARA SABER QUE TIPO DE VARIABLE ES.
 console.log(typeof datoA);
 console.log(typeof nombre);
 console.log(typeof activo);
