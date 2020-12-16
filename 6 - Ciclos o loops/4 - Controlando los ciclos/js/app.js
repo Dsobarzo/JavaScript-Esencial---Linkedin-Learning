@@ -9,9 +9,11 @@ var cuenta = 0;
 
 for(contador = 0;contador<= 20;contador++) { 
     if(contador == 5){
+        //SE AÑADE BREAK PARA ROMPER EL CICLO
         break
     }
-   if (contador % 2 == 0) { 
+   if (contador % 2 == 0) {
+       // SE AÑADE CONTINUE PARA SALIR DEL SICLO
       continue;
    } 
    cuenta++;
