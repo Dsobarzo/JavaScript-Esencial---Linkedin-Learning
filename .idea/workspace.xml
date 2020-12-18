@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ba1d3b-7318-4862-9c2c-e5836fb93056" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 - Trabajando con números/1 - Propiedades númericas/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Trabajando con números/1 - Propiedades númericas/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 - Trabajando con números/2 - Métodos númericos/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Trabajando con números/2 - Métodos númericos/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <workItem from="1608048986260" duration="1512000" />
       <workItem from="1608130070904" duration="6747000" />
       <workItem from="1608311552513" duration="167000" />
-      <workItem from="1608311746627" duration="5034000" />
+      <workItem from="1608311746627" duration="5180000" />
     </task>
     <servers />
   </component>

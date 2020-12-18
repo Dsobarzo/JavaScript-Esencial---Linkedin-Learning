@@ -4,7 +4,7 @@
 //*** Métodos númericos
 
 
-var numero = "10";
+var numero = "10.301";
 
 
 console.log('Number: ', typeof numero, typeof Number(numero));
