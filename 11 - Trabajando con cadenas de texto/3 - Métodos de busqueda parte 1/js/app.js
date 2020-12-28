@@ -20,6 +20,7 @@ var resultado;
 
 
 // search | Expresión regular
+//Se agrega el valor i para realiar la busqueda en modo Keysensitive(Mayuscula o Minuscula)
 resultado = mensaje.search(/ja/i);
 
 
