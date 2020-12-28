@@ -5,6 +5,7 @@
 
 var valor1 = 10;
 var valor2 = 20;
+//se agrego erro de control
 
 try {
     if (valor1 > valor2) {
